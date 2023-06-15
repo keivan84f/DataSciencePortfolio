@@ -10,13 +10,11 @@
 - B.S., Mechanical Engineering | The University of Urmia, Iran (_ Sep 2005_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Sr. Product Enginer @ TEKNION (AUGUST 2017 – PRESENT)**
+Utilized SQL to import CSV databases into SQL Server, ensuring data integrity and accuracy. Extracted customer information and sales history from the database using SQL queries, providing valuable insights for marketing and sales strategies. Conducted data analysis on customer behavior, identifying patterns and trends to optimize marketing campaigns. Prepared and presented data-driven reports and visualizations to stakeholders, effectively communicating complex findings in a clear and concise manner.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Product Enginer @ CANADIAN FRACTIONAL MOTOR COMPANY (JULY 2015 – AUGUST 2017)**
+Designed and implemented data acquisition systems for real-time monitoring and analysis of product performance, resulting in improved quality and reliability. Developed algorithms for signal processing and analysis, extracting valuable insights from sensor data and optimizing product performance.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
