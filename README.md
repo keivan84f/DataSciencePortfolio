@@ -1,4 +1,5 @@
 # Data Scientist
+#### A highly skilled Full Stack Data Scientist with over 12 years of industrial experience in project management and consumer product development.
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
