@@ -1,12 +1,13 @@
 # Data Scientist
+
 #### A highly skilled Full Stack Data Scientist with over 12 years of industrial experience in project management and consumer product development.
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Machine Learning, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Mechanical Engineering	| University of Montreal, Montreal, Canada (_May 2015_)	 
+- M.S., Biosystems Engineering	| University of Tehran, Iran (_Sep 2008_)	 			        		
+- B.S., Mechanical Engineering | The University of Urmia, Iran (_ Sep 2005_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
