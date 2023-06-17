@@ -7,7 +7,7 @@
 ## Education
 - M.S., Mech Eng	| University of Montreal, Canada (_May 2015_)	 
 - M.S., Biosystems Eng	| University of Tehran, Iran (_Sep 2008_)	 			        		
-- B.S., Mech Eng | The University of Urmia, Iran (_ Sep 2005_)
+- B.S., Mech Eng | The University of Urmia, Iran (_Sep 2005_)
 
 ## Projects
 ### [Breast_Cancer_Keras_Classification](https://nbviewer.org/github/keivan84f/Breast_Cancer_Keras_Classification/blob/84b9e2e63b0599709e1c1579cab44a8419038977/Breast_Cancer_Keras_Classification.ipynb)
