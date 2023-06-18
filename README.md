@@ -2,7 +2,7 @@
 
 #### A Full Stack Data Scientist with over 12 years of industrial experience in project management and data analysis.
 
-#### Technical Skills: Python, Machine Learning, SQL, AWS 
+## Technical Skills: #### Python, Machine Learning, SQL, AWS 
 
 ## Education and Certiffications
 - M.S., Mech Eng	| University of Montreal, Canada (_May 2015_)	 
