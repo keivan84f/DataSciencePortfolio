@@ -25,11 +25,11 @@ Developing a sales forecasting model utilizing machine learning algorithms in or
 
 Utilized SQL to import CSV databases into SQL Server, ensuring data integrity and accuracy. Extracted customer information and sales history from the database using SQL queries, providing valuable insights for marketing and sales strategies. Conducted data analysis on customer behavior, identifying patterns and trends to optimize marketing campaigns. 
 
-**Product Enginer @ CANADIAN FRACTIONAL MOTOR COMPANY (JULY 2015 – AUGUST 2017)**
+**Product Enginer @ [CANADIAN FRACTIONAL MOTOR COMPANY](https://www.caframo.com/) (JULY 2015 – AUGUST 2017)**
 
 Designed and implemented data acquisition systems for real-time monitoring and analysis of product performance, resulting in improved quality and reliability. Developed algorithms for signal processing and analysis, extracting valuable insights from sensor data and optimizing product performance.
 
-**Reliability Enginer @ ROLLS ROYCE CANADA, MONTREAL (JULY 2014 – JULY 2015)**
+**Reliability Enginer @ [ROLLS ROYCE CANADA](https://www.siemens-energy.com/global/en/offerings/power-generation/gas-turbines.html), MONTREAL (JULY 2014 – JULY 2015)**
 
 Conducted Failure Modes and Effects Analysis (FMEA) on high-disruption systems to identify failure modes, associated risks, and recommended corrective actions. Utilized historical maintenance data and forced outage reports to perform data analysis and identify recurring failure patterns, leading to the implementation of preventive maintenance actions.
 
