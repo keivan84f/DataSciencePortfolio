@@ -2,7 +2,7 @@
 
 #### A Full Stack Data Scientist with over 12 years of industrial experience in project management and data analysis.
 
-## Technical Skills: 
+## Technical Skills
 Python, Machine Learning, SQL, AWS 
 
 ## Education and Certiffications
