@@ -19,7 +19,7 @@
 ### [Breast_Cancer_Keras_Classification](https://nbviewer.org/github/keivan84f/Breast_Cancer_Keras_Classification/blob/84b9e2e63b0599709e1c1579cab44a8419038977/Breast_Cancer_Keras_Classification.ipynb) (Training Artificial Neural Networks (ANNs) algorithm on a dataset to build predictive model for breast cancer diagnosis)
 
 ## Work Experience
-**Sr. Product Enginer @ TEKNION (AUGUST 2017 – PRESENT)**
+**Sr. Product Enginer @ [TEKNION](https://www.teknion.com/ca) (AUGUST 2017 – PRESENT)**
 
 Developing a sales forecasting model utilizing machine learning algorithms in order to enhance forecast accuracy compared to existing methods. This involves collecting historical sales data, including relevant variables, preprocessing the data, and identifying the most appropriate machine learning algorithm for the task. 
 
