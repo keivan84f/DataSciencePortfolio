@@ -14,7 +14,8 @@
 
 ## Projects
 
-### [Utilizing machine learning to predict solidification cracks in Inconel 718 welding processes](https://publications.polymtl.ca/1729/) (Employ various machine learning algorithms to predict solidification cracks in different welds created using various welding parameters)
+### [Utilizing machine learning to predict solidification cracks in Inconel 718 welding processes](https://publications.polymtl.ca/1729/) 
+####(Employ various machine learning algorithms to predict solidification cracks in different welds created using various welding parameters)
 
 ### [Breast_Cancer_Keras_Classification](https://nbviewer.org/github/keivan84f/Breast_Cancer_Keras_Classification/blob/84b9e2e63b0599709e1c1579cab44a8419038977/Breast_Cancer_Keras_Classification.ipynb) (Training Artificial Neural Networks (ANNs) algorithm on a dataset to build predictive model for breast cancer diagnosis)
 
