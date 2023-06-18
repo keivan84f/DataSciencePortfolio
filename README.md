@@ -32,7 +32,7 @@ Utilized SQL to import CSV databases into SQL Server, ensuring data integrity an
 
 Designed and implemented data acquisition systems for real-time monitoring and analysis of product performance, resulting in improved quality and reliability. Developed algorithms for signal processing and analysis, extracting valuable insights from sensor data and optimizing product performance.
 
-**Reliability Enginer @ [ROLLS ROYCE CANADA](https://www.siemens-energy.com/global/en/offerings/power-generation/gas-turbines.html), MONTREAL (JULY 2014 – JULY 2015)**
+**Reliability Enginer @ [ROLLS ROYCE CANADA](https://www.siemens-energy.com/global/en/offerings/power-generation/gas-turbines.html), MONTREAL (SEP 2014 – JULY 2015)**
 
 Conducted Failure Modes and Effects Analysis (FMEA) on high-disruption systems to identify failure modes, associated risks, and recommended corrective actions. Utilized historical maintenance data and forced outage reports to perform data analysis and identify recurring failure patterns, leading to the implementation of preventive maintenance actions.
 
@@ -40,7 +40,7 @@ Conducted Failure Modes and Effects Analysis (FMEA) on high-disruption systems t
 
 Implemented data acquisition systems to receive, filter, and process data collected from sensors on weldability testing machine. Conducted statistical analysis on the acquired data to identify trends, anomalies, and potential correlations related to welding crack occurrences. Developed and implemented a predictive model to forecast welding crack probabilities on gas turbine engines, resulting in a 15% reduction in maintenance costs and improved engine reliability.
 
-**Reliability Enginer @ [IRAN AUTOMOBILE INDUSTRY](https://en.ikco.ir/), TEHRAN (SEP 2006 – JULY 2012)**
+**Reliability Enginer @ [IRAN AUTOMOBILE INDUSTRY](https://en.ikco.ir/), TEHRAN (SEP 2008 – Aug 2011)**
 
 Implemented reliability improvement initiatives for machine shop equipment, resulting in a 20% reduction in equipment failures and downtime. Collected and analyzed failure data from equipment sensors and maintenance records to identify failure patterns and develop predictive maintenance models. Conducted statistical analysis and reliability modeling to assess equipment performance, predict failure probabilities, and optimize maintenance schedules.
 
