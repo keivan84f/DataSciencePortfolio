@@ -37,7 +37,7 @@ Conducted Failure Modes and Effects Analysis (FMEA) on high-disruption systems t
 
 Implemented data acquisition systems to receive, filter, and process data collected from sensors on weldability testing machine. Conducted statistical analysis on the acquired data to identify trends, anomalies, and potential correlations related to welding crack occurrences. Developed and implemented a predictive model to forecast welding crack probabilities on gas turbine engines, resulting in a 15% reduction in maintenance costs and improved engine reliability.
 
-**Reliability Enginer @ RAN AUTOMOBILE INDUSTRY, IKCO, TEHRAN (SEP 2006 – JULY 2012)**
+**Reliability Enginer @ [IRAN AUTOMOBILE INDUSTRY](https://en.ikco.ir/), TEHRAN (SEP 2006 – JULY 2012)**
 
 Implemented reliability improvement initiatives for machine shop equipment, resulting in a 20% reduction in equipment failures and downtime. Collected and analyzed failure data from equipment sensors and maintenance records to identify failure patterns and develop predictive maintenance models. Conducted statistical analysis and reliability modeling to assess equipment performance, predict failure probabilities, and optimize maintenance schedules.
 
