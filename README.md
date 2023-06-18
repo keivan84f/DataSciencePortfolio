@@ -4,10 +4,13 @@
 
 #### Technical Skills: Python, Machine Learning, SQL, AWS 
 
-## Education
+## Education and Certiffications
 - M.S., Mech Eng	| University of Montreal, Canada (_May 2015_)	 
 - M.S., Biosystems Eng	| University of Tehran, Iran (_Sep 2008_)	 			        		
 - B.S., Mech Eng | The University of Urmia, Iran (_Sep 2005_)
+- Python for Data Science and Machine Learning Bootcamp, UDEMY (_2023_)
+- 100 Days of Code - The Complete Python Pro Bootcamp, UDMY (_2023_)
+- The Complete SQL Bootcamp: Go from Zero to Hero, UDMY (_2023_)
 
 ## Projects
 ### [Breast_Cancer_Keras_Classification](https://nbviewer.org/github/keivan84f/Breast_Cancer_Keras_Classification/blob/84b9e2e63b0599709e1c1579cab44a8419038977/Breast_Cancer_Keras_Classification.ipynb) (Training Artificial Neural Networks (ANNs) algorithm on a dataset to build predictive model for breast cancer diagnosis)
