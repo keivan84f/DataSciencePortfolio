@@ -10,8 +10,8 @@ Python, Machine Learning, SQL, AWS
 - M.S., Biosystems Eng	| University of Tehran, Iran (_Sep 2008_)	 			        		
 - B.S., Mech Eng | University of Urmia, Iran (_Sep 2005_)
 - Python for Data Science and Machine Learning, | UDEMY (_2023_)
-- 100 Days of Code - The Complete Python Pro Bootcamp, UDMY (_2023_)
-- The Complete SQL Bootcamp: Go from Zero to Hero, UDMY (_2023_)
+- 100 Days of Code - The Complete Python Pro Bootcamp, | UDMY (_2023_)
+- The Complete SQL Bootcamp: Go from Zero to Hero, | UDMY (_2023_)
 
 ## Projects
 
