@@ -33,7 +33,7 @@ Designed and implemented data acquisition systems for real-time monitoring and a
 
 Conducted Failure Modes and Effects Analysis (FMEA) on high-disruption systems to identify failure modes, associated risks, and recommended corrective actions. Utilized historical maintenance data and forced outage reports to perform data analysis and identify recurring failure patterns, leading to the implementation of preventive maintenance actions.
 
-**R&D Enginer @ PRATT AND WHITNEY CANADA (SEP 2012 – JULY 2014)**
+**R&D Enginer @ [PRATT AND WHITNEY CANADA](https://www.prattwhitney.com/) (SEP 2012 – JULY 2014)**
 
 Implemented data acquisition systems to receive, filter, and process data collected from sensors on weldability testing machine. Conducted statistical analysis on the acquired data to identify trends, anomalies, and potential correlations related to welding crack occurrences. Developed and implemented a predictive model to forecast welding crack probabilities on gas turbine engines, resulting in a 15% reduction in maintenance costs and improved engine reliability.
 
