@@ -15,6 +15,7 @@ Training Artificial Neural Networks (ANNs) algorithm on a dataset to build predi
 
 ## Work Experience
 **Sr. Product Enginer @ TEKNION (AUGUST 2017 – PRESENT)**
+
 Developing a sales forecasting model utilizing machine learning algorithms in order to enhance forecast accuracy compared to existing methods. This involves collecting historical sales data, including relevant variables, preprocessing the data, and identifying the most appropriate machine learning algorithm for the task. 
 
 Utilized SQL to import CSV databases into SQL Server, ensuring data integrity and accuracy. Extracted customer information and sales history from the database using SQL queries, providing valuable insights for marketing and sales strategies. Conducted data analysis on customer behavior, identifying patterns and trends to optimize marketing campaigns. 
