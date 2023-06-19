@@ -26,8 +26,6 @@ Python, Machine Learning, SQL, AWS
 
 Developing a sales forecasting model utilizing machine learning algorithms in order to enhance forecast accuracy compared to existing methods. This involves collecting historical sales data, including relevant variables, preprocessing the data, and identifying the most appropriate machine learning algorithm for the task. 
 
-Utilized SQL to import CSV databases into SQL Server, ensuring data integrity and accuracy. Extracted customer information and sales history from the database using SQL queries, providing valuable insights for marketing and sales strategies. Conducted data analysis on customer behavior, identifying patterns and trends to optimize marketing campaigns. 
-
 **Product Engineer @ [CANADIAN FRACTIONAL MOTOR COMPANY](https://www.caframo.com/) (JULY 2015 – AUGUST 2017)**
 
 Designed and implemented data acquisition systems for real-time monitoring and analysis of product performance, resulting in improved quality and reliability. Developed algorithms for signal processing and analysis, extracting valuable insights from sensor data and optimizing product performance.
