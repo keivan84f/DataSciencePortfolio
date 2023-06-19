@@ -8,7 +8,7 @@ Python, Machine Learning, SQL, AWS
 ## Education and Certiffications
 - M.S., Mech Eng	| University of Montreal, Canada (_May 2015_)	 
 - M.S., Biosystems Eng	| University of Tehran, Iran (_Sep 2008_)	 			        		
-- B.S., Mech Eng | University of Urmia, Iran (_Sep 2005_)
+- B.S., Mech Eng | University of Tehran, Iran (_Sep 2005_)
 - Python for Data Science and Machine Learning, | UDEMY (_2023_)
 - 100 Days of Code - The Complete Python Pro, | UDMY (_2023_)
 - The Complete SQL Bootcamp, | UDMY (_2023_)
@@ -22,21 +22,21 @@ Python, Machine Learning, SQL, AWS
 #### (Training Artificial Neural Networks (ANNs) algorithm on a dataset to build predictive model for breast cancer diagnosis)
 
 ## Work Experience
-**Sr. Product Enginer @ [TEKNION](https://www.teknion.com/ca) (AUGUST 2017 – PRESENT)**
+**Sr. Product Engineer @ [TEKNION](https://www.teknion.com/ca) (AUGUST 2017 – PRESENT)**
 
 Developing a sales forecasting model utilizing machine learning algorithms in order to enhance forecast accuracy compared to existing methods. This involves collecting historical sales data, including relevant variables, preprocessing the data, and identifying the most appropriate machine learning algorithm for the task. 
 
 Utilized SQL to import CSV databases into SQL Server, ensuring data integrity and accuracy. Extracted customer information and sales history from the database using SQL queries, providing valuable insights for marketing and sales strategies. Conducted data analysis on customer behavior, identifying patterns and trends to optimize marketing campaigns. 
 
-**Product Enginer @ [CANADIAN FRACTIONAL MOTOR COMPANY](https://www.caframo.com/) (JULY 2015 – AUGUST 2017)**
+**Product Engineer @ [CANADIAN FRACTIONAL MOTOR COMPANY](https://www.caframo.com/) (JULY 2015 – AUGUST 2017)**
 
 Designed and implemented data acquisition systems for real-time monitoring and analysis of product performance, resulting in improved quality and reliability. Developed algorithms for signal processing and analysis, extracting valuable insights from sensor data and optimizing product performance.
 
-**Reliability Enginer @ [ROLLS ROYCE CANADA](https://www.siemens-energy.com/global/en/offerings/power-generation/gas-turbines.html), MONTREAL (SEP 2014 – JULY 2015)**
+**Reliability Engineer @ [ROLLS ROYCE CANADA](https://www.siemens-energy.com/global/en/offerings/power-generation/gas-turbines.html), MONTREAL (SEP 2014 – JULY 2015)**
 
 Conducted Failure Modes and Effects Analysis (FMEA) on high-disruption systems to identify failure modes, associated risks, and recommended corrective actions. Utilized historical maintenance data and forced outage reports to perform data analysis and identify recurring failure patterns, leading to the implementation of preventive maintenance actions.
 
-**R&D Enginer @ [PRATT AND WHITNEY CANADA](https://www.prattwhitney.com/) (SEP 2012 – JULY 2014)**
+**R&D Engineer @ [PRATT AND WHITNEY CANADA](https://www.prattwhitney.com/) (SEP 2012 – SEP 2014)**
 
 Implemented data acquisition systems to receive, filter, and process data collected from sensors on weldability testing machine. Conducted statistical analysis on the acquired data to identify trends, anomalies, and potential correlations related to welding crack occurrences. Developed and implemented a predictive model to forecast welding crack probabilities on gas turbine engines, resulting in a 15% reduction in maintenance costs and improved engine reliability.
 
