@@ -24,7 +24,7 @@ Python, Machine Learning, SQL, AWS
 ## Work Experience
 **Sr. Product Engineer @ [TEKNION](https://www.teknion.com/ca) (AUGUST 2017 – PRESENT)**
 
-Developing a sales forecasting model utilizing machine learning algorithms in order to enhance forecast accuracy compared to existing methods. This involves collecting historical sales data, including relevant variables, preprocessing the data, and identifying the most appropriate machine learning algorithm for the task. 
+Developing a sales forecasting model that utilizes machine learning algorithms to enhance forecast accuracy compared to existing methods. This process involved collecting historical sales data, including relevant variables, preprocessing the data, and identifying the most suitable machine learning algorithm for the task. 
 
 **Product Engineer @ [CANADIAN FRACTIONAL MOTOR COMPANY](https://www.caframo.com/) (JULY 2015 – AUGUST 2017)**
 
